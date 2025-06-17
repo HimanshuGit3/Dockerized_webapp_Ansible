@@ -1,6 +1,6 @@
 ---
-dockerhub_username: "himashu30"  # Replace with your Docker Hub username
-dockerhub_password: "Himanshu300@Mainid"  # Replace with your Docker Hub password
+dockerhub_username: "username"  # Replace with your Docker Hub username
+dockerhub_password: "password"  # Replace with your Docker Hub password
 docker_image_name: "webapp"
 docker_image_tag: "latest"
 
