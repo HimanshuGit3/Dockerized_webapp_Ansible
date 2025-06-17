@@ -1,0 +1,6 @@
+---
+- name: Build and Push Docker Image
+  hosts: localhost
+  roles:
+    - docker_build
+
